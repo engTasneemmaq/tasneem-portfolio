@@ -522,7 +522,7 @@ border-radius: .5rem;
   }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1000px) {
   .bd-grid {
     margin-left: auto;
     margin-right: auto;
@@ -534,3 +534,4 @@ border-radius: .5rem;
     width: 450px;
   }
 }
+
